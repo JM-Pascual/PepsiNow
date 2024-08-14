@@ -1,6 +1,6 @@
 # PepsiNow
 
-Simple Python script that uses Selenium for scraping the Pepsi Twist can value from different retail store's websites in Argentina.
+Simple Python script that uses Selenium to scrape the price of Pepsi Twist cans from various retail store websites in Argentina.
 
 To run it, simply install Selenium using:
 ```
